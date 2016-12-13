@@ -1,3 +1,8 @@
-# complexed_views
+# Complex Views
 
-Adding tutorial later...
+## Different ways to displaying views. 
+
+* Side Bar Menu
+    * SWRevealView Framework
+    * [AppCoda Tutorial](swrevealviewcontroller tutorial ios)
+
